@@ -1,6 +1,6 @@
 <header>
 
-# Foundations of Project Management
+# Foundations of Project Management 项目管理基础
 
 </header>
 
@@ -73,18 +73,39 @@
 特定于行业的管理角色
 
 
+<header>
+
+# Project Initiation: Starting a Successful Project 项目启动：启动一个成功的项目
+
+</header>
 
 
+<header>
+
+# Project Planning: Putting It All Together 项目规划：将所有内容放在一起
+
+</header>
 
 
+<header>
+
+# Project Execution: Running the Project 项目执行：运行项目
+
+</header>
 
 
+<header>
+
+# Agile Project Management
+
+</header>
 
 
+<header>
 
+# Capstone: Applying Project Management in the Real World 顶点：在现实世界中应用项目管理
 
-
-
+</header>
 
 
 
