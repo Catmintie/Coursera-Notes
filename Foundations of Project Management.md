@@ -7,7 +7,7 @@
 ## Project management job categories and common roles 
 项目管理工作类别和常见角色
 
-### Introductory-level project management roles 入门级项目管理角色
+Introductory-level project management roles 入门级项目管理角色
 
 - **Junior Project Manager**: Performs all aspects of being a project manager alongside a more experienced professional.
 >初级项目经理：与更有经验的专业人士一起执行项目经理的各个方面。
@@ -20,7 +20,7 @@
 - **Project Support Specialist**: Works alongside a project manager and team members to oversee assigned projects. May also be responsible for training and developing employees to perform designated tasks.
 >项目支持专家：与项目经理和团队成员一起工作，监督分配的项目。还可能负责培训和发展员工以执行指定任务。
 
-### Traditional project management roles 传统项目管理角色
+Traditional project management roles 传统项目管理角色
 
 - **Project Manager**: Responsible for the initiating, planning, executing, monitoring, and closing of a project. Includes industry-specific titles like IT project manager, construction project manager, or engineering project manager, which utilize skills that are transferable among industries.
 >项目经理：负责项目的启动、计划、执行、监控和结束。包括特定于行业的头衔，如 IT 项目经理、施工项目经理或工程项目经理，这些头衔利用可在行业之间转移的技能。
@@ -40,7 +40,7 @@
 - **Project Management Office (PMO) Analyst**: Manages the progress of complex projects to ensure timely execution and completion. 
 >项目管理办公室 （PMO） 分析师：管理复杂项目的进度，以确保及时执行和完成。
 
-### Program and portfolio management roles 项目群和项目组合管理角色
+Program and portfolio management roles 项目群和项目组合管理角色
 
 - **Program managers**: Manage a group of projects that are related or similar to one another and handle the coordination of these projects. They facilitate effective communication between individual project managers and provide support where necessary. They also help create and manage long-term goals for their organization.
 >项目经理：管理一组彼此相关或相似的项目，并处理这些项目的协调。它们促进了各个项目经理之间的有效沟通，并在必要时提供支持。他们还帮助为组织创建和管理长期目标。
@@ -50,7 +50,7 @@
 
 ![image](https://github.com/Catmintie/Coursea-Notes-Foundations-of-Project-Management/assets/109279865/0d95e639-160c-432e-a3f3-55cabc92c4a1)
 
-### Operational management roles 运营管理角色
+Operational management roles 运营管理角色
 
 - **Operations Analyst**: Manages and coordinates research, investigates workflows, creates business procedures, and recommends changes to improve the project and company. 
 >运营分析师：管理和协调研究、调查工作流程、创建业务流程并提出更改建议以改进项目和公司。
@@ -61,7 +61,7 @@
 - **Chief Operating Officer**: Responsible for overseeing the day-to-day administrative and operational functions of a business.
 >首席运营官：负责监督企业的日常行政和运营职能。
 
-### Agile roles 敏捷角色
+Agile roles 敏捷角色
 
 - **Scrum Master**: Coordinates and guides the Scrum team. Knowledgeable in Agile framework and Scrum and is able to teach others about the Scrum values and principles. May also be listed as a Technical Program Manager or Technical Project Manager. 
 >Scrum Master：协调和指导 Scrum 团队。精通敏捷框架和 Scrum，能够向他人传授 Scrum 价值观和原则。也可以被列为技术项目经理或技术项目经理。
@@ -69,7 +69,7 @@
 - **Product Owner**: Drives the direction of product development and progress. 
 >产品负责人：推动产品开发和进步的方向。
 
-### Industry-specific management roles
+Industry-specific management roles
 特定于行业的管理角色
 
 
