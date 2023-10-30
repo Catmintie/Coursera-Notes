@@ -72,6 +72,91 @@ Agile roles 敏捷角色
 Industry-specific management roles
 特定于行业的管理角色
 
+## Common project management buzzwords
+常见的项目管理流行语
+
+- **Analytical**: 分析
+
+- **Assertive**: 自信
+
+- **Assessing outcomes**: 评估结果
+
+- **Assessing progress**: 评估进展情况
+
+- **Attention to detail**: 注重细节
+
+- **Conflict resolution**: 冲突解决
+
+- **Collaborative**: 共同
+
+- **Coordination**: 协调
+
+- **Communication**: 通信
+
+- **Development**: 发展
+
+- **Evaluation**: 评估
+
+- **Executing plans**: 执行计划
+
+- **Financial analysis**: 财务分析
+
+- **Impact assessment**: 影响评估
+
+- **Leadership engagement**: 领导层参与
+
+- **Managing meetings**: 管理会议
+
+- **Managing client expectations**: 管理客户期望
+
+- **Managing conflicts**: 管理冲突
+
+- **Managing relationships with stakeholders**: 管理与利益相关者的关系
+
+- **Managing vendors**: 管理供应商
+
+- **Meeting deadlines**: 满足最后期限
+
+- **Monitoring**: 监测
+
+- **Multitasking**: 多任务
+
+- **Planning**: 规划
+
+- **Prioritizing**: 优先
+
+- **Problem-solving**: 解决问题
+
+- **Process development**: 工艺开发
+
+- **Process improvement**: 流程改进
+
+- **Project coordination**: 项目协调
+
+- **Project implementation**: 项目实施
+
+- **Project initialization**: 项目初始化
+
+- **Project planning**: 项目规划
+
+- **Project reporting**: 项目报告
+
+- **Quality control**: 质量管理
+
+- **Risk assessment**: 风险评估
+
+- **Risk management**: 风险管理
+
+- **Solution development**: 解决方案开发
+
+- **Strategic planning**: 战略规划
+
+- **Strong interpersonal skills**: 较强的人际交往能力
+
+- **Strong verbal communication**: 较强的口头沟通能力
+
+- **Strong written communication**: 强大的书面沟通能力
+
 
 <header>
 
@@ -96,7 +181,7 @@ Industry-specific management roles
 
 <header>
 
-# Agile Project Management
+# Agile Project Management：敏捷项目管理
 
 </header>
 
