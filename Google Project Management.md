@@ -157,6 +157,11 @@ Industry-specific management roles
 
 - **Strong written communication**: 强大的书面沟通能力
 
+## job sites
+
+At some point, you may want to begin to search for jobs. So. how do you know where to start? There are lots of trusted job sites you can use, like 
+Indeed,LinkedIn, Google Jobs, and Ziprecruiter. 
+
 
 <header>
 
