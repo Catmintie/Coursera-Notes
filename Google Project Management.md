@@ -181,6 +181,22 @@ Stakeholders are people who are interested in and affected by the project's comp
 3.**effective communication**：有效的沟通
 >Project managers deliver value through effective communication, both with their team and with key stakeholders.
 
+## How project managers impact organizations
+项目经理如何影响组织
+
+1.**Focusing on the customer**：以客户为中心
+
+2.**Building a great team**：打造优秀团队
+
+3.**Fostering relationships and communication**：促进人际关系和沟通
+
+4.**Managing the project**：管理项目
+
+5.**Breaking down barriers**：打破壁垒
+
+Maintaining customer satisfaction and building a great team are two ways that you, as a project manager, can add value to a project.
+>保持客户满意度和建立一支优秀的团队是您作为项目经理为项目增加价值的两种方式。
+
 
 <header>
 
