@@ -197,6 +197,29 @@ Stakeholders are people who are interested in and affected by the project's comp
 Maintaining customer satisfaction and building a great team are two ways that you, as a project manager, can add value to a project.
 >保持客户满意度和建立一支优秀的团队是您作为项目经理为项目增加价值的两种方式。
 
+## Project management responsibilities
+
+1.**Planning and organizing**
+
+- Making use of productivity tools and creating processes
+
+- Create plans,timelines,schedules,and other forms of documentation to track project completion
+
+2.**Managing tasks**
+
+3.Budgeting and controlling costs and other factors
+
+- Monitor and manage the budget
+  
+- Track issues and risks
+
+- Manage quality
+
+- Remove unforeseen barriers
+
+A project task is an activity that needs to be accomplished within a set period of time by you, your team, or your stakeholders.
+
+>项目任务是一项需要进行的活动您在规定的时间内完成的，你的团队，或者你的利益相关者。
 
 <header>
 
