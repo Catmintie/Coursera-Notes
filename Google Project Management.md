@@ -1,6 +1,6 @@
 <header>
 
-# 一、Foundations of Project Management 项目管理基础
+# 一、Foundations of Project Management
 
 </header>
 
@@ -220,6 +220,19 @@ Maintaining customer satisfaction and building a great team are two ways that yo
 A project task is an activity that needs to be accomplished within a set period of time by you, your team, or your stakeholders.
 
 >项目任务是一项需要进行的活动您在规定的时间内完成的，你的团队，或者你的利益相关者。
+
+## Responsibilities that utilize interpersonal skills
+利用人际交往能力的责任
+
+1.**Teaching and mentoring**：教学和指导
+
+2.**Building relationships**：建立关系
+
+3.**Controlling change**：控制变更
+
+4.**Empowering your team**：为您的团队赋能
+
+5.**Communicating status and concerns**：沟通状态和关注点
 
 <header>
 
