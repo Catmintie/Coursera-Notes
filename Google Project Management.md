@@ -234,6 +234,22 @@ A project task is an activity that needs to be accomplished within a set period 
 
 5.**Communicating status and concerns**：沟通状态和关注点
 
+## A project manager’s role within a team
+项目经理在团队中的角色
+
+1.**Hold all team members accountable for their assigned tasks.**
+>让所有团队成员对他们分配的任务负责
+
+2.**Ensure that issues and risks are tracked and visible, and be able to establish escalation paths.**
+>确保跟踪和查看问题和风险，并能够建立升级路径。
+
+3.**Enderstand and help teammates adopt the right workflows and project management styles.**
+>了解并帮助团队成员采用正确的工作流程和项目管理风格。
+
+4.**Collaborate with other teams at the organization to meet the requirements based on project, scope, schedule, and budget.**
+>与组织中的其他团队合作，以满足基于项目、范围、进度和预算的要求。
+
+
 <header>
 
 # 二、Project Initiation: Starting a Successful Project 项目启动：启动一个成功的项目
