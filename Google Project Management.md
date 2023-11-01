@@ -249,6 +249,17 @@ A project task is an activity that needs to be accomplished within a set period 
 4.**Collaborate with other teams at the organization to meet the requirements based on project, scope, schedule, and budget.**
 >与组织中的其他团队合作，以满足基于项目、范围、进度和预算的要求。
 
+## Working with cross-functional teams
+与跨职能团队合作
+
+1.**Clarify goals**：明确目标
+
+2.**Get team members with the right skills**：让团队成员具备合适的技能
+
+3.**Measure progress**：衡量进度
+
+4.**Recognize efforts**：认可努力
+
 
 <header>
 
