@@ -260,6 +260,23 @@ A project task is an activity that needs to be accomplished within a set period 
 
 4.**Recognize efforts**：认可努力
 
+## The core skills of a project manager
+项目经理的核心技能
+
+1.**enabling decision-making**：促成决策
+
+2.**communicating and escalating**：沟通和升级
+
+3.**flexibility**：灵活性
+
+4.**strong organizational skills**：强大的组织能力
+
+## Industry knowledge
+
+**tools and templates and project management styles**
+
+
+
 
 <header>
 
