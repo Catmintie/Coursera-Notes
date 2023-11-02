@@ -80,7 +80,7 @@ Industry-specific management roles
 常见的项目管理流行语
 
 - **Analytical**: 分析
-
+  
 - **Assertive**: 自信
 
 - **Assessing outcomes**: 评估结果
@@ -273,7 +273,16 @@ A project task is an activity that needs to be accomplished within a set period 
 
 ## Industry knowledge
 
-**tools and templates and project management styles**
+- **tools**
+- **templates**
+- **project management styles**
+
+## Key interpersonal skills
+
+- **Communication**：沟通
+- **Negotiation**：谈判
+- **Conflict mediation**：冲突调解
+- **Understanding motivations**：理解动机
 
 
 
