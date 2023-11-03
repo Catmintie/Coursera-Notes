@@ -284,6 +284,35 @@ A project task is an activity that needs to be accomplished within a set period 
 - **Conflict mediation**：冲突调解
 - **Understanding motivations**：理解动机
 
+## Project life cycle
+
+1.**Initiate the project**：启动项目
+
+- Defining project goals：定义项目目标
+  
+- Determine resources,people,and other project details：确定资源，人员，和详细项目信息
+  
+- Get project approval：获得项目批准
+  
+2.**Make a plan**：制定计划
+
+- Create a budget
+  
+- Set the project schedule
+  
+- Establish your team
+  
+- Determine roles and responsibilities
+
+- Plan for risk and change
+
+- Establish communications
+
+
+
+3.**Execute and complete tasks**：执行和完成任务
+
+4.**Close the project**：关闭项目
 
 
 
