@@ -308,11 +308,29 @@ A project task is an activity that needs to be accomplished within a set period 
 
 - Establish communications
 
-
-
 3.**Execute and complete tasks**：执行和完成任务
 
+- Manage the progress
+
+- Communicate
+
+- Make adjustments
+
 4.**Close the project**：关闭项目
+
+- Ensure all tasks have been compeleted
+
+- Confirm acceptance of the project outcome
+
+- Reflect on lessons learned
+
+- Communicate results with stakeholders
+
+- Celebrate completing the project
+
+- Formally move on from the project
+
+
 
 
 
