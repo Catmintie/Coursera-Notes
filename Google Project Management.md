@@ -330,7 +330,11 @@ A project task is an activity that needs to be accomplished within a set period 
 
 - Formally move on from the project
 
+## project management methodologies
 
+1.**linear**
+
+2.**iterative**
 
 
 
