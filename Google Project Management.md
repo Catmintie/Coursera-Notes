@@ -330,11 +330,38 @@ A project task is an activity that needs to be accomplished within a set period 
 
 - Formally move on from the project
 
-## project management methodologies
+## Project management methodologies
 
-1.**linear**
+1.**Linear**
 
-2.**iterative**
+Linear means the previous phase or task has to be completed before the next can start.
+
+>线性意味着必须先完成上一个阶段或任务，然后才能开始下一个阶段或任务。
+
+Waterfall
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/dabd7d61-56fd-4c66-bca8-7a4f7a55fb86)
+
+- When the phases of the project are clearly defined
+
+- When there are tasks to complete before another can begin
+
+- When project changes are expensive to implement once it's started
+
+Agile
+
+2.**Iterative**
+
+Iterative means some of the phases in tasks will overlap or happen at the same time that other tasks are being worked on.
+
+>迭代指其中任务中的某些阶段将重叠或与其他任务同时发生。
+
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/0128c984-08b9-47f9-8629-bf784df8db02)
+
+
+
+
+
+
 
 
 
