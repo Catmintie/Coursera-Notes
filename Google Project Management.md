@@ -357,8 +357,57 @@ Iterative means some of the phases in tasks will overlap or happen at the same t
 
 ![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/0128c984-08b9-47f9-8629-bf784df8db02)
 
+## Lean and Six Sigma
 
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/da826aa8-897a-4c1f-967d-97c4591940bc)
 
+**DMAIC**：
+
+1.Define
+
+You will need to define the project goal and talk to stakeholders about expectations for the project.
+
+2.Measure
+
+You'll set a plan for how you'll get that data and how often to measure it. 
+
+3.Analyze
+
+You'll begin to identify gaps and issues.
+
+4.Improve
+
+You'd present your findings and get ready to start making improvements. 
+
+5.Control
+
+Controlling is all about learning from the work you did up front to put new processes and documentation in place.
+
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/5f246eb4-c440-4607-8508-26ac74c92dcd)
+
+## Popular project management approaches
+流行的项目管理方法
+
+**Waterfall** is a traditional methodology in which tasks and phases are completed in a linear, sequential manner, and each stage of the project must be completed before the next begins. The project manager is responsible for prioritizing and assigning tasks to team members. In Waterfall, the criteria used to measure quality is clearly defined at the beginning of the project.
+>瀑布是一种传统的方法，其中任务和阶段以线性、顺序的方式完成，项目的每个阶段都必须在下一个阶段开始之前完成。项目经理负责确定任务的优先级并将其分配给团队成员。在瀑布中，用于衡量质量的标准在项目开始时就明确定义了。
+
+**Agile** involves short phases of collaborative, iterative work with frequent testing and regularly-implemented improvements. Some phases and tasks happen at the same time as others. In Agile projects, teams share responsibility for managing their own work. Scrum and Kanban are examples of Agile frameworks, which are specific development approaches based on the Agile philosophy.
+>敏捷涉及短阶段的协作、迭代工作，包括频繁的测试和定期实施的改进。某些阶段和任务与其他阶段和任务同时发生。在敏捷项目中，团队共同负责管理自己的工作。Scrum 和看板是敏捷框架的例子，它们是基于敏捷哲学的特定开发方法。
+
+**Scrum** is an Agile framework that focuses on developing, delivering, and sustaining complex projects and products through collaboration, accountability, and an iterative process. Work is completed by small, cross-functional teams led by a Scrum Master and is divided into short Sprints with a set list of deliverables.
+>Scrum 是一个敏捷框架，专注于通过协作、问责制和迭代过程来开发、交付和维护复杂的项目和产品。工作由Scrum Master领导的小型跨职能团队完成，并分为简短的冲刺，并有一系列可交付成果。
+
+**Kanban** is a tool used in both Agile and Lean approaches that provides visual feedback about the status of the work in progress through the use of Kanban boards or charts. With Kanban, project managers use sticky notes or note cards on a physical or digital Kanban board to represent the team’s tasks with categories like “To do,” “In progress,” and “Done.”
+>看板是一种用于敏捷和精益方法的工具，它通过使用看板或图表提供有关正在进行的工作状态的视觉反馈。通过看板，项目经理在物理或数字看板上使用便签或记事卡，用“待办事项”、“进行中”和“完成”等类别来表示团队的任务。
+
+**Lean** uses the 5S quality tool to eliminate eight areas of waste, save money, improve quality, and streamline processes. Lean’s principles state that you can do more with less by addressing dysfunctions that create waste. Lean implements a Kanban scheduling system to manage production.
+>精益使用 5S 质量工具消除八个方面的浪费、节省资金、提高质量并简化流程。精益原则指出，通过解决造成浪费的功能障碍，您可以事半功倍。精益实施看板调度系统来管理生产。
+
+**Six Sigma** involves reducing variations by ensuring that quality processes are followed every time. The Six Sigma method follows a process-improvement approach called DMAIC, which stands for define, measure, analyze, improve, and control.
+>六西格玛涉及通过确保每次都遵循质量流程来减少变化。六西格玛方法遵循一种称为 DMAIC 的过程改进方法，它代表定义、测量、分析、改进和控制。
+
+**Lean Six Sigma** is a combination of Lean and Six Sigma approaches. It is often used in projects that aim to save money, improve quality, and move through processes quickly. Lean Six Sigma is also ideal for solving complex or high-risk problems. The 5S organization framework, the DMAIC process, and the use of Kanban boards are all components of this approach. 
+>精益六西格玛是精益和六西格玛方法的结合。它通常用于旨在节省资金、提高质量和快速完成流程的项目。精益六西格玛也是解决复杂或高风险问题的理想选择。5S 组织框架、DMAIC 流程和看板的使用都是这种方法的组成部分。
 
 
 
