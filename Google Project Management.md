@@ -409,9 +409,53 @@ Controlling is all about learning from the work you did up front to put new proc
 **Lean Six Sigma** is a combination of Lean and Six Sigma approaches. It is often used in projects that aim to save money, improve quality, and move through processes quickly. Lean Six Sigma is also ideal for solving complex or high-risk problems. The 5S organization framework, the DMAIC process, and the use of Kanban boards are all components of this approach. 
 >精益六西格玛是精益和六西格玛方法的结合。它通常用于旨在节省资金、提高质量和快速完成流程的项目。精益六西格玛也是解决复杂或高风险问题的理想选择。5S 组织框架、DMAIC 流程和看板的使用都是这种方法的组成部分。
 
+## Organizational structure
 
+the way a company or organization is arranged or structured. 
 
+组织结构是指公司或组织的安排或结构方式。
 
+1.**Classic** ：functional or top-down structures. 
+
+>经典结构：经典结构遵循传统的、自上而下的报告系统
+
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/a1f2c4e1-72b3-4e38-8783-37cadc0da8a9)
+
+2.**Matrix**：Direct higher-ups and stakeholders from other departments or programs.
+
+>矩阵结构：直接向上级报告，并向其他部门或项目的利益相关者报告。
+
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/ccdbbc33-673b-404e-9acb-97d9b6c77417)
+
+## How organizational structure impacts project management
+
+组织结构如何影响项目管理
+
+1.**Project manager authority**：项目经理权限
+
+Authority has to do with your ability to make decisions for the project that impact the organization. 
+
+2.**Resource availability**：资源可用性
+
+Knowing how to access the people, equipment, and budget needed for a project.
+
+## Project Management Office(PMO)
+
+A Project Management Office, or PMO, is a group within an organization that defines, sets, and helps maintain project management standards and processes throughout that organization. It often acts as a coordinated center for all of the organization’s projects, helping them run more smoothly and efficiently.
+
+>项目管理办公室 （PMO） 是组织内的一个组，负责定义、设置和帮助维护整个组织的项目管理标准和流程。它通常充当组织所有项目的协调中心，帮助它们更顺畅、更高效地运行。
+
+The main functions of a PMO include:
+
+- **Strategic planning and governance**：战略规划和治理
+
+- **Best practices**：最佳做法
+
+- **Common project culture**：共同的项目区域性
+
+- **Resource management**：资源管理
+
+- **Creation of project documentation, archives, and tools**：创建项目文档、档案和工具
 
 
 <header>
