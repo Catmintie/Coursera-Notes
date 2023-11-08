@@ -457,6 +457,45 @@ The main functions of a PMO include:
 
 - **Creation of project documentation, archives, and tools**：创建项目文档、档案和工具
 
+## Organizational culture
+
+the values employees share, as well as the organization's values, mission, history.
+
+Navigating culture
+
+- Ask questions：Atmosphere 气氛；Policies 政策；Processes 过程；Values 价值；
+
+- Make observations
+
+- Understand your impact
+
+The importance of organizational culture 
+组织文化的重要性
+
+- Identity:身份
+
+- People:人员
+
+- Processes: 流程
+
+Understanding an organization’s culture
+了解组织的文化
+
+- Ask questions：Atmosphere 气氛；Policies 政策；Processes 过程；Values 价值；
+
+- Listen to people’s stories 倾听人们的故事
+
+- Take note of company rituals 注意公司仪式
+
+- Understand your impact 了解您的影响
+
+- Sharpen your communication skills 提高你的沟通技巧
+
+
+
+
+
+
 
 <header>
 
