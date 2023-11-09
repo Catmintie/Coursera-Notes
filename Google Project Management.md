@@ -511,9 +511,37 @@ Core concepts
 
 <header>
 
-# 二、Project Initiation: Starting a Successful Project 项目启动：启动一个成功的项目
+# 二、Project Initiation: Starting a Successful Project
 
 </header>
+
+## project manager’s responsibilities during the initiation phase
+
+在启动阶段，项目经理有哪些职责？
+
+- Determine the criteria for project success with stakeholders 与利益相关者一起确定项目成功的标准
+
+- Identify project goals 确定项目目标
+
+- Identify project resources 确定项目资源
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <header>
