@@ -491,6 +491,18 @@ Understanding an organization’s culture
 
 - Sharpen your communication skills 提高你的沟通技巧
 
+## Change Management
+
+The process of delivering your completed project and getting people to adopt it.
+
+Core concepts
+
+- Create a sense of ownership and urgency：创造对项目的主人翁意识和紧迫感
+
+- Figure out the right combination of skills and personalities：弄清楚技能和个性的正确结合
+
+- Effective communication：有效的沟通
+
 
 
 
