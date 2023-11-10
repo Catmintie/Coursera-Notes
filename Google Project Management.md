@@ -541,10 +541,13 @@ Core concepts
 
 - **resources**:budget,people,materials
 
+## Calculating costs and benefits
 
+计算成本和收益
 
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/6db5882e-f747-4058-975e-554207b69e92)
 
-
+G 表示您期望从项目中获得的财务收益，C 表示您在项目中投资的前期和持续成本。
 
 
 
