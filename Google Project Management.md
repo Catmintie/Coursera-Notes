@@ -549,12 +549,17 @@ Core concepts
 
 G 表示您期望从项目中获得的财务收益，C 表示您在项目中投资的前期和持续成本。
 
+## Project goal
 
+The desired outcome of the project.项目目标是项目的预期结果。
 
+## Project deliverables
 
+- The products or services that are created for the customer,client, or project sponsor.
 
+- What gets produced or presented at the end of a task,event, or process.  
 
-
+- Help us quantify and realize the impact of the project.
 
 
 
