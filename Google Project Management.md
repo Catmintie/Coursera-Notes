@@ -525,9 +525,21 @@ Core concepts
 
 - Identify project resources 确定项目资源
 
+## Key components of project initiation
 
+项目启动的关键组成部分
 
+- **goals**
 
+- **scope**
+
+- **deliverables**
+
+- **success criteria**
+
+- **stakeholders**
+
+- **resources**:budget,people,materials
 
 
 
