@@ -503,6 +503,29 @@ Core concepts
 
 - Effective communication：有效的沟通
 
+## SMART goals
+
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/9789e079-a738-4457-93bb-8a05f2295c14)
+
+- Specific: The objective has no ambiguity for the project team to misinterpret.
+
+具体：目标没有歧义，项目团队不会误解。
+
+- Measurable: Metrics help the project team determine when the objective is met.
+
+可衡量的：指标可帮助项目团队确定何时实现目标。
+
+- Attainable: The project team agrees the objective is realistic.
+
+可实现：项目团队同意目标是现实的。
+
+- Relevant: The goal fits the organization’s strategic plan and supports the project charter.
+
+相关：目标符合组织的战略计划并支持项目章程。
+
+- Time-bound: The project team documents a date to achieve the goal.
+
+有时限：项目团队记录实现目标的日期。
 
 
 
