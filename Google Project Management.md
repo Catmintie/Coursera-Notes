@@ -579,6 +579,54 @@ The desired outcome of the project.项目目标是项目的预期结果。
 
 有时限：项目团队记录实现目标的日期。
 
+## OKR
+
+Objectives and Key results
+
+OKRs combine a goal and more detailed metrics to determine a measurable outcome.
+
+OKR 通过结合 将 SMART 目标更进一步目标和更详细的指标确定可衡量的结果。
+
+**Objective**
+
+- defines what needs to be achieved
+
+- describes the desired result or outcome
+
+examples:
+
+- increase in customer retention
+
+-  improvement on the employee onboarding process
+
+**Key results**
+
+- the measurable outcomes that define when the objective has been met
+
+examples:
+
+- objective:improve customer retention
+
+- key result:achieve 90% customer satisfaction rating by the end of the first quarter
+
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/c0a7142e-f0cf-4d92-a196-233049f6db29)
+
+Creating OKRs for your project
+
+- Set your objectives 设定目标
+
+- Develop key results 开发关键成果
+
+
+
+
+
+
+
+
+
+
+
 
 <header>
 
