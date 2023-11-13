@@ -617,6 +617,38 @@ Creating OKRs for your project
 
 - Develop key results 开发关键成果
 
+## Gathering information to define scope
+收集信息以定义范围
+
+- Stakeholders 利害关系人
+
+- Goals 目标
+
+- Deliverables 交付
+
+- Resources 资源
+
+- Budget 预算
+
+- Schedule 附表
+
+- Flexibility 灵活性
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
