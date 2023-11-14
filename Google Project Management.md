@@ -710,6 +710,31 @@ Determining Project Success
 
 - Motivation
 
+## project roles
+项目角色
+
+**project sponsor**
+
+The person who is accountable for the project and who ensures the project delivers the agreed upon value to the business.
+
+>项目发起人是对项目负责并确保项目为企业提供商定价值的人。
+
+**Team members**
+
+The people doing the work and making things happen.
+
+>团队成员是运营的核心。他们是做日常工作并使项目发生的人。
+
+
+
+
+
+
+
+
+
+
+
 
 
 
