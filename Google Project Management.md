@@ -672,14 +672,30 @@ The triple constraint model
 
 ![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/8f01a913-eb8c-47c5-a6da-ee9bdc4935e8)
 
+## Launching and landing a project
+启动和登陆项目
 
+**Launch**
 
+Delivering the final result of your project to the client or user.
 
+**Landing**
 
+Measure the success of your project using the success criteria established at the outset of the project.
 
+## Success criteria
 
+- tells you whether or not the project as a whole was successful.
 
+- Specific details of project goals,deliverables,requirements,and expectations.
 
+- The standards by which the project will be judged once it's been delivered to stakeholders and customers. 
+
+Determining Project Success
+
+- Identify the measurable aspects of your project
+
+- Get clarity from stakeholders on the project requirements and expectations.
 
 
 
