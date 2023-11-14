@@ -634,9 +634,29 @@ Creating OKRs for your project
 
 - Flexibility 灵活性
 
+## Strategies for controlling scope creep
+控制范围蔓延的策略
 
+- Define your project’s requirements. Communicate with your stakeholders or customers to find out exactly what they want from the project and document those requirements during the initiation phase. 
+>定义项目的要求。与您的利益相关者或客户沟通，以准确了解他们希望从项目中获得什么，并在启动阶段记录这些需求。
 
+- Set a clear project schedule. Time and task management are essential for sticking to your project’s scope. Your schedule should outline all of your project’s requirements and the tasks that are necessary to achieve them.
+>设定明确的项目时间表。时间和任务管理对于坚持项目范围至关重要。您的日程安排应概述项目的所有要求以及实现这些要求所需的任务。
 
+- Determine what is out of scope. Make sure your stakeholders, customers, and project team understand when proposed changes are out of scope. Come to a clear agreement about the potential impacts to the project and document your agreement. 
+>确定超出范围的内容。确保您的利益干系人、客户和项目团队了解建议的更改何时超出范围。就对项目的潜在影响达成明确的协议，并记录您的协议。
+
+- Provide alternatives. Suggest alternative solutions to your customer or stakeholder. You can also help them consider how their proposed changes might create additional risks. Perform a cost-benefit analysis, if necessary.
+>提供替代方案。向您的客户或利益相关者提出替代解决方案。您还可以帮助他们考虑他们提议的更改可能会如何产生额外的风险。如有必要，执行成本效益分析。
+
+- Set up a change control process. During the course of your project, some changes are inevitable. Determine the process for how each change will be defined, reviewed, and approved (or rejected) before you add it to your project plan. Make sure your project team is aware of this process.
+>设置变更控制流程。在项目过程中，一些变化是不可避免的。在将每个更改添加到项目计划之前，确定如何定义、审查和批准（或拒绝）每个更改的过程。确保您的项目团队了解此过程。
+
+- Learn how to say no. Sometimes you will have to say no to proposed changes. Saying no to a key stakeholder or customer can be uncomfortable, but it can be necessary to protect your project’s scope and its overall quality. If you are asked to take on additional tasks, explain how they will interfere with the budget, timeline, and/or resources defined in your initial project requirements. 
+>学习如何说“不”。有时，您将不得不对提议的更改说不。对关键利益相关者或客户说“不”可能会让人感到不舒服，但为了保护项目的范围和整体质量可能是必要的。如果您被要求承担其他任务，请解释它们将如何干扰初始项目要求中定义的预算、时间表和/或资源。
+
+- Collect costs for out-of-scope work. If out-of-scope work is required, be sure to document all costs incurred. That includes costs for work indirectly impacted by the increased scope. Be sure to indicate what the charges are for. 
+>收取超出范围的工作的成本。如果需要超出范围的工作，请务必记录发生的所有成本。这包括受范围扩大间接影响的工作成本。请务必说明费用的用途。
 
 
 
