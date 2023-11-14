@@ -697,9 +697,18 @@ Determining Project Success
 
 - Get clarity from stakeholders on the project requirements and expectations.
 
+## Choosing a project team 
+选择项目团队
 
+- Required roles
 
+- Team size
 
+- Necessary skills
+
+- Availability
+
+- Motivation
 
 
 
