@@ -634,7 +634,13 @@ Creating OKRs for your project
 
 - Flexibility 灵活性
 
-## Strategies for controlling scope creep
+## Scope creep
+范围蔓延
+
+Scope creep is when the scope changes after you've already started the project. 
+范围蔓延是指在启动项目后范围发生变化。
+
+Strategies for controlling scope creep
 控制范围蔓延的策略
 
 - Define your project’s requirements. Communicate with your stakeholders or customers to find out exactly what they want from the project and document those requirements during the initiation phase. 
@@ -658,10 +664,13 @@ Creating OKRs for your project
 - Collect costs for out-of-scope work. If out-of-scope work is required, be sure to document all costs incurred. That includes costs for work indirectly impacted by the increased scope. Be sure to indicate what the charges are for. 
 >收取超出范围的工作的成本。如果需要超出范围的工作，请务必记录发生的所有成本。这包括受范围扩大间接影响的工作成本。请务必说明费用的用途。
 
+Managing scope
 
+make sure you document everything in the beginning and share it with all of your stakeholders and team members, and make sure everybody's in agreement on that scope. 
 
+The triple constraint model
 
-
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/8f01a913-eb8c-47c5-a6da-ee9bdc4935e8)
 
 
 
