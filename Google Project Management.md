@@ -749,17 +749,19 @@ The person who plans,organizes,and oversees the whole project.
 
 >项目经理：计划、组织和监督整个项目的人。
 
+## stakeholder analysis
 
+利益相关者分析
 
+1.make a list of all the stakeholders that the project impacts.
 
+2.determine the level of interest and influence for each stakeholder.
 
+3.assess their ability to participate,and find ways to involve them.
 
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/8a0dbf79-e1f2-4b1f-b57e-60a20ef27859)
 
-
-
-
-
-
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/3990f18f-a620-4b79-9d2c-f2b035727502)
 
 
 
