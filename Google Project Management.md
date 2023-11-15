@@ -786,6 +786,20 @@ The person who plans,organizes,and oversees the whole project.
 
 - Scope creep  范围蠕变
 
+## Essential project resources
+基本项目资源
+
+- **Budget**:An estimate of the amount of money a project will cost to complete.
+
+>预算是对项目完成所需金额的估计。
+
+- **People**:help execute the tasks of a project.
+
+- **Materials**:items you need to help get the project done.
+
+
+
+
 
 
 
