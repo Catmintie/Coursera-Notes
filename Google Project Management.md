@@ -797,6 +797,21 @@ The person who plans,organizes,and oversees the whole project.
 
 - **Materials**:items you need to help get the project done.
 
+ ## two common types of documentation
+
+**project proposal**:a form of documentation that comes at the very beginning of the project. 
+
+>项目建议书是项目开始时的一种文档形式。
+
+**project charter**:a formal document that clearly defines the project and outlines the necessary details to reach its goals. 
+
+>项目章程：一份正式文件，明确定义项目并概述实现其目标的必要细节。
+
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/07b1eb0b-26fa-41f3-b5c2-7ab06c6c9efa)
+
+
+
+
 
 
 
