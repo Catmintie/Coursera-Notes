@@ -759,9 +759,8 @@ The person who plans,organizes,and oversees the whole project.
 
 3.assess their ability to participate,and find ways to involve them.
 
-![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/8a0dbf79-e1f2-4b1f-b57e-60a20ef27859)
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/c1848c20-5019-4398-9ddf-8673ce7234ce)
 
-![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/3990f18f-a620-4b79-9d2c-f2b035727502)
 
 
 
