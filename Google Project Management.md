@@ -773,9 +773,18 @@ The person who plans,organizes,and oversees the whole project.
 
 ![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/e55b9e62-8bf7-4884-ba3b-b410f1433aea)
 
+## Why projects fail: Initiation missteps
+项目失败的原因：启动失误
 
+- Unclear expectations  不明确的期望
 
+- Unrealistic expectations 不切实际的期望
 
+- Miscommunication 误解
+
+- Lack of resources 资源匮乏
+
+- Scope creep  范围蠕变
 
 
 
