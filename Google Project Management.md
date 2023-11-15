@@ -725,6 +725,34 @@ The people doing the work and making things happen.
 
 >团队成员是运营的核心。他们是做日常工作并使项目发生的人。
 
+**Customers**
+
+The people who will get some value from a successfully landed project.
+
+>客户是将从成功落地的项目中获得某种价值的人。
+
+**Users**
+
+The people that use the product produced by your project.
+
+>用户是最终使用你的项目将产生的产品的人。
+
+**Stakeholders**
+
+Anyone involved in the project who has a vested interest in the project's success.
+
+>利益相关者是参与项目的任何人;那些对项目成功有既得利益的人。
+
+**Project manager**
+
+The person who plans,organizes,and oversees the whole project.
+
+>项目经理：计划、组织和监督整个项目的人。
+
+
+
+
+
 
 
 
