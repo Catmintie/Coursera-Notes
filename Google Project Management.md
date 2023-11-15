@@ -761,6 +761,24 @@ The person who plans,organizes,and oversees the whole project.
 
 ![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/c1848c20-5019-4398-9ddf-8673ce7234ce)
 
+## RACI chart
+
+- **Respomsible**:Those doing the work to complete the task.
+
+- **Accountable**:Those making sure the work gets done.
+
+- **Consulted**:Those giving feedback,like subject matter experts or decision makers.
+
+- **Informed**:Those just needing to know the final decisions,or that a task is complete.
+
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/0526097a-0787-4ed4-b6d2-48bd39258730)
+
+
+
+
+
+
+
 
 
 
