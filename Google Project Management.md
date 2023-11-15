@@ -771,7 +771,8 @@ The person who plans,organizes,and oversees the whole project.
 
 - **Informed**:Those just needing to know the final decisions,or that a task is complete.
 
-![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/0526097a-0787-4ed4-b6d2-48bd39258730)
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/e55b9e62-8bf7-4884-ba3b-b410f1433aea)
+
 
 
 
