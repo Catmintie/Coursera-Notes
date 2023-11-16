@@ -839,6 +839,38 @@ Types of tools
 
 - Collaboration tools
 
+Common project management tools
+
+- scheduling tool
+
+**Smartsheet** to maintain the project’s schedule, resources, and budget
+Smartsheet，用于维护项目的进度、资源和预算
+
+**Google Sheets** to create task lists and project plans, and analyze data with charts
+Google 表格，用于创建任务列表和项目计划，并使用图表分析数据
+
+- productivity and collaboration tools
+
+**Cloud Storage** such as Google Drive to store documents online
+云存储，例如 Google Drive，用于在线存储文档
+
+Email such as **Gmail** or **Outlook** to send emails to vendors
+Gmail 或 Outlook 等电子邮件，用于向供应商发送电子邮件
+
+Chat tools such as **Slack** to better communicate with your team members and stakeholders
+Slack 等聊天工具，可更好地与团队成员和利益相关者沟通
+
+Video conferencing tools such as **Zoom** or **WebEx** to host online meetings
+Zoom 或 WebEx 等视频会议工具，用于主持在线会议
+
+Comprehensive tools like **Microsoft Teams** or **Google Workplace** to streamline productivity and collaboration
+Microsoft Teams 或 Google Workplace 等综合工具可简化生产力和协作
+
+- project management software
+
+**Asana, Trello, Monday.com, or Basecamp**
+
+
 
 
 
