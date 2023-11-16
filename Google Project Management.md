@@ -809,11 +809,35 @@ The person who plans,organizes,and oversees the whole project.
 
 ![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/07b1eb0b-26fa-41f3-b5c2-7ab06c6c9efa)
 
+## Project management tools
 
+Productivity&collaboration tools
 
+- Online shared documents
 
+- Meeting agendas
 
+- Status updates
 
+- Spreadsheets
+
+- RACI charts
+
+- Project plans
+
+- Presentations
+
+- Project overviews
+
+- Email and chart
+
+Types of tools
+
+- Scheduling and work management software
+
+- Produvtivity tools
+
+- Collaboration tools
 
 
 
