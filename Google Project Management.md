@@ -897,6 +897,33 @@ Microsoft Teams 或 Google Workplace 等综合工具可简化生产力和协作
 
 -  Demonstrates to stakeholders that the team is taking care to start the project with a detailed plan. 
 
+## Launching the planning phase
+启动规划阶段
+
+- **Schedule**
+
+The project timeline,which includes the start date,the end date,and dates for events in between
+
+- **Budget**
+
+The budget accounts for the total cost to complete the project
+
+- **Risk Management**
+  
+Searching for possible problems related to the project and planning ahead to mitigate these risks
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <header>
