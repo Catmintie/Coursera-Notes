@@ -949,6 +949,32 @@ Kick-off meeting agenda
 
   Gain clarity on meeting topics,Ensure the project benefits from diversity of thoughts experiences,and ideas
 
+## Milestone and Project task
+
+**Milestone**:An important point within the project schedule that indicates progress and usually signifies the completion of a deliverable or phase of the project.
+
+**Project task**:An activity that needs to be accomplished within a set period of time.
+
+## Work breakdown structure(WBS)
+工作分解结构
+
+A tool that sorts the milestones and tasks of a project in a hierarchy,in the order they need to be completed.
+
+![image](https://github.com/Catmintie/Coursera-Notes/assets/109279865/4780b35b-b886-4cab-bfbd-f49aecb976e9)
+
+Steps to build a WBS
+构建 WBS 的步骤
+
+1.Start with the high-level, overarching project picture. Brainstorm with your team to list the major deliverables and milestones. 
+
+2.Identify the tasks that need to be performed in order to meet those milestones. 
+
+3.Examine those tasks and break them down further into sub-tasks.
+
+
+
+
+
 
 
 
