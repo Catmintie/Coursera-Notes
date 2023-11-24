@@ -912,13 +912,42 @@ The budget accounts for the total cost to complete the project
   
 Searching for possible problems related to the project and planning ahead to mitigate these risks
 
+## Project kick-off meeting
+项目启动会议
 
+The first meeting in which a project team comes together to ground everyone in a shared vision, gain a shared understanding of the project's goals and scope, and to understand each person's individual roles within the team. 
 
+Invite：- Project team - Project stakeholders - Project sponsor
 
+Kick-off meeting agenda
 
+- **Introductions**
 
+  Team member names,Project roles,Fun facts
 
+- **Background**
 
+  How the project came to be,Why the project matters,Set a shared vision
+
+- **Goals and scope**
+
+  In-scope,Out-of-scope,Target launch date,Milestones
+
+- **Roles**
+
+  What work everyone is responsible for throughout the duration of the project
+
+- **Collaboration**
+
+  Share project tools and documents,Communication expectations
+
+- **What comes next**
+
+  Set expectations and action items
+
+- **Questions**
+
+  Gain clarity on meeting topics,Ensure the project benefits from diversity of thoughts experiences,and ideas
 
 
 
