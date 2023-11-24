@@ -971,13 +971,26 @@ Steps to build a WBS
 
 3.Examine those tasks and break them down further into sub-tasks.
 
+## Project plan
 
+- Tasks
 
+- Milestones
 
+- People
 
+- Documentation
 
+- Time
 
+**Time estimation** is a prediction of the total amount of time required to complete a task. 
 
+**Effort estimation** is a prediction of the amount and difficulty of active work required to complete a task.
+
+**Buffer**
+缓冲区
+
+A buffer is extra time added to the end of a task or a project to account for unexpected slowdowns or delays in work progress. 
 
 
 
