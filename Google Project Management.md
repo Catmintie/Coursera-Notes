@@ -992,6 +992,53 @@ Steps to build a WBS
 
 A buffer is extra time added to the end of a task or a project to account for unexpected slowdowns or delays in work progress. 
 
+## Capacity planning and the critical path
+容量规划和关键路径
+
+**Capacity**
+
+The amount of work that the people or resources assigned to the project can reasonably complete in a set period of time.
+
+**Capacity plannning**
+
+refers to the act of allocating people, and resources to project tasks.And determining whether or not you have the necessary resources required to complete the work on time.
+
+**Critical path**
+
+The list of project milestones that you must reach in order to meet the project goal on schedule.As well as the mandatory tasks that contribute to the completion of each milestone.
+
+Your critical path includes the bare minimum number of tasks and milestones you need to reach your project goal.
+
+How to create a critical path
+
+1: Capture all tasks :捕获所有任务
+
+2: Set dependencies :设置依赖项
+
+3: Create a network diagram:创建网络逻辑示意图
+
+4: Make time estimates：估算时间
+
+5: Find the critical path：查找关键路径
+
+## Soft skills
+
+Personal characteristice that help people work effectively with others.
+
+- Asking the right questions
+
+- Negotiating effectively
+
+- Practing empathy
+
+
+
+
+
+
+
+
+
 
 
 <header>
